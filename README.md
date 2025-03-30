@@ -1,0 +1,1 @@
+This is a simple Tic-Tac-Toe web application built using HTML, CSS, and JavaScript. Two players take turns playing X and O, with automatic win detection and a restart option. The game features a clean UI, real-time updates, and a responsive design. Future improvements may include AI mode, themes, and sound effects.
